@@ -1,8 +1,26 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+html{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
 }
 
-a {
-  color: #00B7FF;
+body{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	height: 100%;
+	width: 100%;
+}
+
+.Hero {
+	background-color: #775577;
+	padding: 50px;
+	font-size: 80px;
+	text-align: center;
+	font-family: sans-serif;
+	color: white;
+}
+
+.Rect{
+	height: 200px;	
 }
